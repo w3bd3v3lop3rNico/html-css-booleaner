@@ -1,4 +1,9 @@
-
+* {
+    padding: 0px;
+}
+body{
+    width: 1100px;
+}
 
 #logo {
     background-image: url(../img/pattern.png);
@@ -15,4 +20,24 @@
 }
 .evidenziato{
     background-color: gold;
+}
+.paragrafo {
+    padding-bottom: 20px;
+}
+.lista {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.table{
+    padding-bottom: 20px;
+    margin-left: 0px;
+    border-collapse: collapse;
+}
+#riga1{
+    background: aqua; 
+    color: blue;
+}
+.riga-azzurra{
+    background-color: aquamarine;
+    padding: 1em;
 }
