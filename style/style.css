@@ -1,7 +1,18 @@
 * {
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 #logo {
     background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+#logo-img{
+    width: 150px;
+}
+#creator{
+    color:aqua;
+}
+#data{
+    font-size: 5 px;
 }
