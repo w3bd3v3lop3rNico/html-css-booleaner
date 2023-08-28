@@ -1,7 +1,7 @@
 * {
     padding: 0px;
 }
-body{
+body {
     width: 1100px;
 }
 
@@ -9,16 +9,16 @@ body{
     background-image: url(../img/pattern.png);
     background-size: contain;
 }
-#logo-img{
+#logo-img {
     width: 150px;
 }
-#creator{
+#creator {
     color:aqua;
 }
-#data{
+#data {
     font-size: 5 px;
 }
-.evidenziato{
+.evidenziato {
     background-color: gold;
 }
 .paragrafo {
@@ -28,16 +28,31 @@ body{
     padding-left: 20px;
     padding-bottom: 20px;
 }
-.table{
+.table {
     padding-bottom: 20px;
     margin-left: 0px;
     border-collapse: collapse;
 }
-#riga1{
+#riga1 {
     background: aqua; 
     color: blue;
 }
-.riga-azzurra{
+.riga-azzurra {
     background-color: aquamarine;
     padding: 1em;
+}
+#title-footer {
+    color: gray;
+}
+#footer-img-1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 310px;
+    color: white;
+}
+#footer-img-2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 310px;
+    color: white;
 }
