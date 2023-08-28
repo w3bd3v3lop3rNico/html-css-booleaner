@@ -8,11 +8,15 @@ body {
 #logo {
     background-image: url(../img/pattern.png);
     background-size: contain;
+    background-color: blue;
 }
 #logo-img {
     width: 150px;
 }
-#creator {
+#creator{
+    color: gray;
+}
+#creator-blue {
     color:aqua;
 }
 #data {
