@@ -1,7 +1,8 @@
 * {
-    margin: 0px;
+    margin: auto;
     padding: 0px;
-    box-sizing: border-box;
+
+    
 }
 #logo {
     background-image: url(../img/pattern.png);
@@ -15,4 +16,7 @@
 }
 #data{
     font-size: 5 px;
+}
+.evidenziato{
+    background-color: gold;
 }
