@@ -9,12 +9,17 @@ body {
     background-image: url(../img/pattern.png);
     background-size: contain;
     background-color: blue;
+    padding-top: 30px;
 }
 #logo-img {
-    width: 150px;
+    width: 100px;
+}
+#title{
+    margin-bottom: 0px;
 }
 #creator{
     color: gray;
+    padding-bottom: 50px;
 }
 #creator-blue {
     color:aqua;
@@ -36,6 +41,8 @@ body {
     padding-bottom: 20px;
     margin-left: 0px;
     border-collapse: collapse;
+    width: 1000px;
+    table-layout: fixed;
 }
 #riga1 {
     background: aqua; 
